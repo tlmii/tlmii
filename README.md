@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/tlmii">Twitter</a><br />
-<a rel="me" href="https://mastodon.social/@tlmii">Mastodon</a>
+<a rel="me" href="https://hachyderm.io/@tlmii">Mastodon</a>
 
 <!--
 **tlmii/tlmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
